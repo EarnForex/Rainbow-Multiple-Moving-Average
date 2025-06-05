@@ -6,6 +6,6 @@ You can use it like any other moving average indicator - to see the currency pai
 
 ![Bollinger Squeeze Advanced indicator shows some potentially good trend-based entries on the hourly EUR/USD chart](https://github.com/EarnForex/Rainbow-Multiple-Moving-Average/blob/main/README_Images/rainbow-multiple-moving-average-rmma-indicates-trends-eurusd.png)
 
-More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/metatrader-indicators/Rainbow-Multiple-Moving-Average/
+More information about this custom MetaTrader indicator is available here: https://www.earnforex.com/indicators/Rainbow-Multiple-Moving-Average/
 
 Any contributions to the code are welcome!
